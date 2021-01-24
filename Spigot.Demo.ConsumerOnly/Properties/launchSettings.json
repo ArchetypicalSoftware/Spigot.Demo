@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Spigot.Demo.ConsumerOnly": {
+      "commandName": "Project",
+      "commandLineArgs": "-b Redis -p 11003 11009"
+    }
+  }
+}

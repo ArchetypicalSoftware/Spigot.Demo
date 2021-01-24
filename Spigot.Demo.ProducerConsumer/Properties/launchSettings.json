@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Spigot.Demo.ProducerConsumer": {
+      "commandName": "Project",
+      "commandLineArgs": "-n PRODUCER_1 -p 6480 -b Redis"
+    }
+  }
+}

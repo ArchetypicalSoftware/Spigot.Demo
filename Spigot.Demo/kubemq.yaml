@@ -1,0 +1,8 @@
+﻿version: '2.1'
+services:
+  kubemq_{1}:
+    image: kubemq/kubemq
+    ports: 
+      - "{0}:50000" #grpc endpoint 
+#    environment:
+#      - KUBEMQ_TOKEN=52a76d8e-eded-4227-9f3c-0544a2a4c19f    

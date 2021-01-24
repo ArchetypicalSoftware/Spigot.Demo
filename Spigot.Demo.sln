@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spigot.Demo", "Spigot.Demo\Spigot.Demo.csproj", "{BDA2802E-5549-4A12-8BD1-F780F789FF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spigot.Demo.ConsumerOnly", "Spigot.Demo.ConsumerOnly\Spigot.Demo.ConsumerOnly.csproj", "{642B6EF2-9DE8-4EFD-BF16-CA388B932579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spigot.Demo.ProducerConsumer", "Spigot.Demo.ProducerConsumer\Spigot.Demo.ProducerConsumer.csproj", "{65FFB61A-E5DC-4414-84CF-AB47F91B216E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spigot.Demo.Models", "Spigot.Demo.Models\Spigot.Demo.Models.csproj", "{0DFFF412-22EB-40AE-9606-BF2BD56C45BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA2802E-5549-4A12-8BD1-F780F789FF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA2802E-5549-4A12-8BD1-F780F789FF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA2802E-5549-4A12-8BD1-F780F789FF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA2802E-5549-4A12-8BD1-F780F789FF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642B6EF2-9DE8-4EFD-BF16-CA388B932579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642B6EF2-9DE8-4EFD-BF16-CA388B932579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642B6EF2-9DE8-4EFD-BF16-CA388B932579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642B6EF2-9DE8-4EFD-BF16-CA388B932579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FFB61A-E5DC-4414-84CF-AB47F91B216E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FFB61A-E5DC-4414-84CF-AB47F91B216E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FFB61A-E5DC-4414-84CF-AB47F91B216E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FFB61A-E5DC-4414-84CF-AB47F91B216E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFFF412-22EB-40AE-9606-BF2BD56C45BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFFF412-22EB-40AE-9606-BF2BD56C45BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFFF412-22EB-40AE-9606-BF2BD56C45BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFFF412-22EB-40AE-9606-BF2BD56C45BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D21CF91-284C-4C73-8797-3029479D425E}
+	EndGlobalSection
+EndGlobal
